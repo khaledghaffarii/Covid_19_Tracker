@@ -1,8 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# COVID-19 Tracker with ReactJS       
 
-## Available Scripts
+![ReactJS Resume Website Template](tracker.png?raw=true "ReactJS Resume Website Template")
 
-In the project directory, you can run:
+## <a href="https://covid-19-tracker-pearl-omega.vercel.app" target="_blank">LIVE DEMO</a>
 
 ### `npm start`
 
